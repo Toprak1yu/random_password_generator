@@ -1,4 +1,4 @@
-🔐 Password Generator
+# 🔐 Password Generator
 A simple password generator app to create secure random passwords.
 
 ## Files
